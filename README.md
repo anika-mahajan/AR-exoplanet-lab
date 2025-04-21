@@ -1,2 +1,2 @@
-# spatial-computer
+# AR Exoplanet Lab
  
